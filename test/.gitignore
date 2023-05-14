@@ -1,5 +1,0 @@
-*.in
-*.log
-!example.log
-*.backup
-test
